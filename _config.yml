@@ -12,30 +12,27 @@ people:
 - name: Vlad Catanoiu
   pic: 0
   position: Manager
-  email: TBD
+  email: vlad.catanoiu@stud.acs.upb.ro
   social:
     - title: linkedin
       url: #
     - title: github
-      url: #
-    - title: email
       url: #
 
 - name: Andrei Sosea
   pic: 1
   position: Manager
-  email: TBD
+  email: andrei_dorin.sosea@stud.acs.upb.ro
   social:
     - title: linkedin
       url: #
     - title: github
       url: #
-    - title: email
-      url: #
 
 - name: Mihai Papa
   pic: 2
   position: Manager
+  email: mihai_eugen.papa@stud.acs.upb.ro
   social:
     - title: linkedin
       url: #
@@ -45,7 +42,7 @@ people:
 - name: David Radu
   pic: 3
   position: Manager
-  email: TBD
+  email: david.radu0905@stud.acs.upb.ro
   social:
     - title: linkedin
       url: #
@@ -55,7 +52,7 @@ people:
 - name: Maria Andreescu
   pic: 4
   position: Manager
-  email: TBD
+  email: maria.andreescu@stud.acs.upb.ro
   social:
     - title: linkedin
       url: #
