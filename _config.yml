@@ -9,71 +9,68 @@ description: "Write an awesome description for your new site here. You can edit 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Vlad Catanoiu
+  pic: 0
+  position: Manager
+  email: TBD
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
-
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
-  social:
-    - title: twitter
+    - title: github
       url: #
-    - title: facebook
-      url: #
-    - title: google-plus
+    - title: email
       url: #
 
-- name: Kay Garland
+- name: Andrei Sosea
   pic: 1
-  position: Lead Designer
+  position: Manager
+  email: TBD
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
       url: #
+    - title: github
+      url: #
+    - title: email
+      url: #
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Mihai Papa
+  pic: 2
+  position: Manager
   social:
-    - title: twitter
+    - title: linkedin
       url: #
-    - title: facebook
+    - title: github
       url: #
-    - title: google-plus
+
+- name: David Radu
+  pic: 3
+  position: Manager
+  email: TBD
+  social:
+    - title: linkedin
       url: #
+    - title: github
+      url: #
+
+- name: Maria Andreescu
+  pic: 4
+  position: Manager
+  email: TBD
+  social:
+    - title: linkedin
+      url: #
+    - title: github
+      url: #
+
+- name: Mihai Buica
+  pic: 5
+  position: Manager
+  email: mihai.buica@stud.acs.upb.ro
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mihai-buica/
+    - title: github
+      url: https://github.com/MihaiBuica
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -90,8 +87,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: ACS, UPB
+  - line: Bucharest, Romania
 
 # Build settings
 markdown: kramdown
