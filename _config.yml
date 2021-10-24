@@ -4,14 +4,14 @@ baseurl: /ArtistryHub
 # Site settings
 title: Artistry Hub
 email: artistryhub0@gmail.com
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+description: "Whether you want a DJ for your party or a band for a memorable event, our platform offers it all. ArtistryHub connects local performers to event organizers who are looking to take their events to the next level."
 
 
 # Team names, titles and social links
 people:
-- name: Vlad Catanoiu
+- name: Vlad Cătănoiu
   pic: 0
-  position: Manager
+  position: Product Manager
   email: vlad.catanoiu@stud.acs.upb.ro
   social:
     - title: linkedin
@@ -19,9 +19,9 @@ people:
     - title: github
       url: https://github.com/vladalex01
 
-- name: Andrei Sosea
+- name: Andrei Șoșea
   pic: 1
-  position: Manager
+  position: Marketing & PR Manager
   email: andrei_dorin.sosea@stud.acs.upb.ro
   social:
     - title: linkedin
@@ -31,7 +31,7 @@ people:
 
 - name: Mihai Papa
   pic: 2
-  position: Manager
+  position: Software Engineer
   email: mihai_eugen.papa@stud.acs.upb.ro
   social:
     - title: linkedin
@@ -41,7 +41,7 @@ people:
 
 - name: David Radu
   pic: 3
-  position: Manager
+  position: UI/UX Developer
   email: david.radu0905@stud.acs.upb.ro
   social:
     - title: linkedin
@@ -51,7 +51,7 @@ people:
 
 - name: Maria Andreescu
   pic: 4
-  position: Manager
+  position: Software Engineer
   email: maria.andreescu@stud.acs.upb.ro
   social:
     - title: linkedin
@@ -59,9 +59,9 @@ people:
     - title: github
       url: https://github.com/mariaandreescu
 
-- name: Mihai Buica
+- name: Mihai Buică
   pic: 5
-  position: Manager
+  position: Sales & Financial Manager
   email: mihai.buica@stud.acs.upb.ro
   social:
     - title: linkedin
