@@ -7,6 +7,6 @@ color:
 
 # Font Families
 font:
-  title:  '"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive'
+  custom:  '"Kaushan Script","Helvetica Neue",Helvetica,Arial,cursive'
   primary: '"Montserrat","Helvetica Neue", Helvetica,Arial,sans-serif'
   secondary: '"Droid Serif", "Helvetica Neue", Helvetica,Arial,sans-serif'
