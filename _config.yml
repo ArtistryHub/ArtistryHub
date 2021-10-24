@@ -15,9 +15,9 @@ people:
   email: vlad.catanoiu@stud.acs.upb.ro
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/vladcatanoiu/
     - title: github
-      url: #
+      url: https://github.com/vladalex01
 
 - name: Andrei Sosea
   pic: 1
@@ -27,7 +27,7 @@ people:
     - title: linkedin
       url: #
     - title: github
-      url: #
+      url: https://github.com/sosea
 
 - name: Mihai Papa
   pic: 2
@@ -37,7 +37,7 @@ people:
     - title: linkedin
       url: #
     - title: github
-      url: #
+      url: https://github.com/mihaipapa
 
 - name: David Radu
   pic: 3
@@ -45,9 +45,9 @@ people:
   email: david.radu0905@stud.acs.upb.ro
   social:
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/david-alexandru-radu-932009173
     - title: github
-      url: #
+      url: https://github.com/alexradu07
 
 - name: Maria Andreescu
   pic: 4
