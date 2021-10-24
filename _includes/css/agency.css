@@ -4,7 +4,7 @@
  * For details, see http://www.apache.org/licenses/LICENSE-2.0.
  */
 
-body {
+ body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
     color: #{{ site.data.template.color.secondary-dark }};
@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/earphones-bg.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -293,8 +293,8 @@ header .intro-text .intro-lead-in {
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
-    font-family: {{ site.data.template.font.primary }};
+    /* text-transform: uppercase; */
+    font-family: {{ site.data.template.font.custom }};
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
@@ -316,8 +316,8 @@ header .intro-text .intro-heading {
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
-        font-family: {{ site.data.template.font.primary }};
+        /* text-transform: uppercase; */
+        font-family: {{ site.data.template.font.custom }};
         font-size: 75px;
         font-weight: 700;
         line-height: 75px;
@@ -494,6 +494,7 @@ section h3.section-subheading {
     width: 80px;
     height: 80px;
     margin-left: 0;
+    transform: scale(0.5);
     border: 7px solid #f1f1f1;
     border-radius: 100%;
     text-align: center;
@@ -509,7 +510,7 @@ section h3.section-subheading {
 
 .timeline>li.timeline-inverted>.timeline-panel {
     float: right;
-    padding: 0 20px 0 100px;
+    padding: 0 20px 0 50px;
     text-align: left;
 }
 
@@ -658,7 +659,7 @@ aside.clients img {
 
 section#contact {
     background-color: #222;
-    background-image: url('{{ site.baseurl }}/img/map-image.png');
+    background-image: url('{{ site.baseurl }}/img/earphones-bg.jpg');
     background-position: center;
     background-repeat: no-repeat;
 }

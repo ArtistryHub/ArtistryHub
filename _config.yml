@@ -2,63 +2,84 @@ url: http://artistryhub.github.io/
 baseurl: /ArtistryHub
 
 # Site settings
-title: Awesome Title
-email: your-email@domain.com
+title: Artistry Hub
+email: artistryhub0@gmail.com
 description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
 
 
 # Team names, titles and social links
 people:
-- name: Kay Garland
-  pic: 1
-  position: Lead Designer
+- name: Vlad Catanoiu
+  pic: 0
+  position: Manager
+  email: vlad.catanoiu@stud.acs.upb.ro
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
-
-- name: Larry Parker
-  pic: 2
-  position: Lead Marketer
-  social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
     - title: linkedin
-      url: #
+      url: https://www.linkedin.com/in/vladcatanoiu/
+    - title: github
+      url: https://github.com/vladalex01
 
-- name: Diana Petersen
-  pic: 3
-  position: Lead Developer
+- name: Andrei Sosea
+  pic: 1
+  position: Manager
+  email: andrei_dorin.sosea@stud.acs.upb.ro
   social:
-    - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+    - title: linkedin
+      url: https://www.linkedin.com/in/andrei-dorin-sosea/
+    - title: github
+      url: https://github.com/sosea
+
+- name: Mihai Papa
+  pic: 2
+  position: Manager
+  email: mihai_eugen.papa@stud.acs.upb.ro
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mihai-eugen-papa-829084181/
+    - title: github
+      url: https://github.com/mihaipapa
+
+- name: David Radu
+  pic: 3
+  position: Manager
+  email: david.radu0905@stud.acs.upb.ro
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/david-alexandru-radu-932009173
+    - title: github
+      url: https://github.com/alexradu07
+
+- name: Maria Andreescu
+  pic: 4
+  position: Manager
+  email: maria.andreescu@stud.acs.upb.ro
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/maria-elena-andreescu/
+    - title: github
+      url: https://github.com/mariaandreescu
+
+- name: Mihai Buica
+  pic: 5
+  position: Manager
+  email: mihai.buica@stud.acs.upb.ro
+  social:
+    - title: linkedin
+      url: https://www.linkedin.com/in/mihai-buica/
+    - title: github
+      url: https://github.com/MihaiBuica
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
-  - title: twitter
-    url: http://twitter.com/jekyllrb
-  - title: facebook
-    url:
-  - title: stack-overflow
-    url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket 
-    url: http://bitbucket.org/jekyll
+  # - title: instagram
+  #   url: #
   - title: github
-    url: http://github.com/jekyll
+    url: https://github.com/ArtistryHub/ArtistryHub
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: ACS, UPB
+  - line: Bucharest, Romania
 
 # Build settings
 markdown: kramdown
